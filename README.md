@@ -1,4 +1,4 @@
-# 🐍 Python Beginner Projects
+# 🐍 The Legend of Python
 
 A collection of small terminal-based games and tools built while learning Python fundamentals. Each project focuses on core programming concepts like loops, conditionals, functions, and working with the `random` module.
 
